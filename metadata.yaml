@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '1961'
     url: http://www.gutenberg.org/2009/agents/1961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31270#The-Writings-Of-Thomas-Paine-CompleteWith-Index-to-Volumes-I---IV
 gutenberg_issued: '2010-02-13'
 gutenberg_type: Text
 identifiers:
